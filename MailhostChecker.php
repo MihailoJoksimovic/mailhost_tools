@@ -15,7 +15,7 @@ class MailhostChecker
 
     private $last_error = false;
 
-    public function __construct(\PHPMailer $phpmailer = false)
+    public function __construct(\PHPMailer $phpmailer = null)
     {
         $this->setPhpmailer($phpmailer);
     }
