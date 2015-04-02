@@ -1,0 +1,12 @@
+{
+    "name": "mixa/mailhost_checker",
+    "require": {
+        "phpmailer/phpmailer": "~5.2"
+    },
+    "authors": [
+        {
+            "name": "Mihailo Joksimovic",
+            "email": "tinzey@gmail.com"
+        }
+    ]
+}
